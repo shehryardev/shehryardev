@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shehryar7
+- 👋 Hi, I’m Shehryar
 - 👀 I’m interested in learning and trying new Programming Laungages
 - 🌱 I’m currently learning FLask
 - 💞️ I’m looking to do a Start-Up
-- 📫 How to reach me you can use my Instagram @shehryar7_
+- 📫 You can reach me by using my Instagram @shehryar7_ or my Linkedin https://www.linkedin.com/in/shehryar7/
 
 <!---
 shehryar7/shehryar7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
