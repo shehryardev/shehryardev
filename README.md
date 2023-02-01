@@ -27,6 +27,6 @@ Mongodb, SQL, Firebase
 
 
 
-## 🚀 About Me
+## 🖥 About Me
 I'm a full stack developer... I recently had my full stack development course and learnt a lot from it.
 
