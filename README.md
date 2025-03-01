@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:recipient@example.com">
+  <a href="mailto:shehryar7ahmed@gmail.com">
   <img height="60" src="https://purepng.com/public/uploads/large/purepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075clftr.png"/>
   </a>
 </p>
